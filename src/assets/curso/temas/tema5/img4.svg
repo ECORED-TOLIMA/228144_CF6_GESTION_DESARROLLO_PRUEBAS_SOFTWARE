@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <g id="Grupo_1185719" data-name="Grupo 1185719" transform="translate(-8883 5160)">
+    <g id="Grupo_1185702" data-name="Grupo 1185702" transform="translate(8593.391 -16771.898)">
+      <g id="Grupo_1177473" data-name="Grupo 1177473" transform="translate(289.609 11611.898)">
+        <ellipse id="Elipse_13609" data-name="Elipse 13609" cx="49" cy="49" rx="49" ry="49" transform="translate(0)" fill="#7a4f1e"/>
+      </g>
+    </g>
+    <g id="lupa_1_" data-name="lupa (1)" transform="translate(8903.58 -5138.996)">
+      <path id="Trazado_1031276" data-name="Trazado 1031276" d="M52.232,8.452A6.467,6.467,0,0,0,45.779,2H8.452A6.467,6.467,0,0,0,2,8.452v5.065H52.232ZM10.3,11.962a2.1,2.1,0,0,1-.021-4.2H10.3a2.1,2.1,0,0,1,0,4.2Zm6.158,0a2.1,2.1,0,0,1-.021-4.2h.021a2.1,2.1,0,1,1,0,4.2Zm6.158,0a2.1,2.1,0,0,1-.021-4.2h.021a2.1,2.1,0,0,1,0,4.2Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Trazado_1031277" data-name="Trazado 1031277" d="M28.188,19.947a18.06,18.06,0,0,1,24.044-1.324V9.48H2V37.538a6.467,6.467,0,0,0,6.452,6.452H26.864a18.037,18.037,0,0,1,1.324-24.044Z" transform="translate(0 8.241)" fill="#fff"/>
+      <path id="Trazado_1031278" data-name="Trazado 1031278" d="M47.075,44.1l-8.112-8.112.006-.007a13.891,13.891,0,1,0-2.984,2.984l.007-.006L44.1,47.075A2.1,2.1,0,1,0,47.075,44.1Z" transform="translate(13.157 13.158)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
