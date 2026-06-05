@@ -396,7 +396,7 @@
           p.mb-0 La documentación técnica debe pensarse como el manual del programador y apuntar a aquellas personas que estarán a cargo de mantener, ampliar o crear un proyecto derivado a partir de nuestro proyecto.
     p.mb-4.text-center Para finalizar, se dan los siguientes aspectos relevantes que se deben tener presentes:
     .BG04.p-5.px-5
-      .tarjeta.tarjeta--blanca.p-4
+      .tarjeta.tarjeta--blanca.p-5
         SlyderA(tipo="b")
           .row
             .col-lg-6.order-2.order-lg-1.mb-4.mb-md-0
