@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <g id="Grupo_1185721" data-name="Grupo 1185721" transform="translate(-8883 5160)">
+    <g id="Grupo_1185702" data-name="Grupo 1185702" transform="translate(8593.391 -16771.898)">
+      <g id="Grupo_1177473" data-name="Grupo 1177473" transform="translate(289.609 11611.898)">
+        <ellipse id="Elipse_13609" data-name="Elipse 13609" cx="49" cy="49" rx="49" ry="49" transform="translate(0)" fill="#786416"/>
+      </g>
+    </g>
+    <g id="Grupo_1185714" data-name="Grupo 1185714" transform="translate(8902 -5142)">
+      <rect id="Rectángulo_456311" data-name="Rectángulo 456311" width="60" height="60.322" fill="none"/>
+    </g>
+    <g id="Grupo_1185724" data-name="Grupo 1185724" transform="translate(8900 -5143)">
+      <g id="registro" transform="translate(4.866 5.688)">
+        <path id="Trazado_1031290" data-name="Trazado 1031290" d="M100.562,257.594A1.6,1.6,0,0,0,98.969,256H92.594A1.6,1.6,0,0,0,91,257.594v1.594h9.562Z" transform="translate(-81.331 -228.801)" fill="#fff"/>
+        <path id="Trazado_1031291" data-name="Trazado 1031291" d="M35.274,0H1.594A1.593,1.593,0,0,0,0,1.594V6.375H35.274Z" fill="#fff"/>
+        <circle id="Elipse_13737" data-name="Elipse 13737" cx="2.047" cy="2.047" r="2.047" transform="translate(12.872 16.966)" fill="#fff"/>
+        <path id="Trazado_1031292" data-name="Trazado 1031292" d="M362,0h3.188V6.375H362Z" transform="translate(-323.538)" fill="#fff"/>
+        <path id="Trazado_1031293" data-name="Trazado 1031293" d="M422,0h3.187V6.375H422Z" transform="translate(-377.163)" fill="#fff"/>
+        <path id="Trazado_1031294" data-name="Trazado 1031294" d="M483.594,0H482V6.375h3.187V1.594A1.593,1.593,0,0,0,483.594,0Z" transform="translate(-430.788)" fill="#fff"/>
+        <path id="Trazado_1031295" data-name="Trazado 1031295" d="M0,133.243a1.593,1.593,0,0,0,1.594,1.594H52.805a1.593,1.593,0,0,0,1.594-1.594V90H0ZM43.243,98.075a1.594,1.594,0,1,1-1.594,1.594A1.594,1.594,0,0,1,43.243,98.075Zm-6.375,0a1.594,1.594,0,1,1-1.594,1.594A1.594,1.594,0,0,1,36.868,98.075Zm-6.375,0A1.594,1.594,0,1,1,28.9,99.669,1.594,1.594,0,0,1,30.493,98.075ZM27.2,104.45H46.43a1.594,1.594,0,0,1,0,3.187H27.2a1.594,1.594,0,0,1,0-3.187Zm0,6.375H46.43a1.594,1.594,0,0,1,0,3.187H27.2a1.594,1.594,0,0,1,0-3.187ZM8.075,117.2H46.43a1.594,1.594,0,0,1,0,3.187H8.075a1.594,1.594,0,0,1,0-3.187Zm0,6.375H46.43a1.594,1.594,0,0,1,0,3.187H8.075a1.594,1.594,0,0,1,0-3.187Z" transform="translate(0 -80.438)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
